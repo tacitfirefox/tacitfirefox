@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tacitfirefox
+- 👀 I’m interested in side projects, games, productivity/organization, app design, and entertainment.
+- 🌱 I’m currently learning code architectural systems and design.
+- 💞️ I’m looking to collaborate on fun projects, neat ideas.
+- 📫 How to reach me: tacitfirefox@pm.me (dm), @tacitfirefox (twitter)
