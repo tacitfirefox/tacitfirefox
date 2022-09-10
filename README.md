@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @tacitfirefox
-- 👀 I’m interested in side projects, games, productivity/organization, app design, and entertainment.
-- 🌱 I’m currently learning code architectural systems and design.
-- 💞️ I’m looking to collaborate on fun projects, neat ideas.
-- 📫 How to reach me: tacitfirefox@pm.me (dm), @tacitfirefox (twitter)
+- :wave: Hi, I’m @tacitfirefox!
+- :eyes: I’m interested in professional projects, side projects, games, productivity/organization, app design, and entertainment.
+- :seedling: I’m currently learning code architectural systems and design.
+- :revolving_hearts: I’m looking to collaborate on fun projects, neat ideas.
+- :bowtie: I'm a nerd for Final Fantasy, Pathfinder 2e, and cooking. 
+- :email: How to reach me: tacitfirefox@pm.me (dm)
